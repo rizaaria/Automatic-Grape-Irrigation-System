@@ -32,7 +32,7 @@ This project was developed as part of the Community Service Learning (CSL) Progr
 
 ## System Architecture
 
-![System Architecture](images/wiring_CSL.png)
+![System Architecture](images/Wiring_CSL.png)
 
 ---
 
